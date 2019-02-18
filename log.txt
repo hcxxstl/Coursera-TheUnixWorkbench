@@ -1,0 +1,23 @@
+commit 6801ee92433224fa86f2d11a47573ff88188746f
+Author: hcxxstl <hcxxstl@126.com>
+Date:   Mon Feb 18 16:26:09 2019 +0800
+
+    added .gitignore
+
+commit 91f16e0e0a4035f393bf529db9761f0ba365a326
+Author: hcxxstl <hcxxstl@126.com>
+Date:   Mon Feb 18 16:14:19 2019 +0800
+
+    modified file1
+
+commit 7e4a1a504b89500db8c389078248497d7552b7e4
+Author: hcxxstl <hcxxstl@126.com>
+Date:   Mon Feb 18 16:09:55 2019 +0800
+
+    added two files
+
+commit b2564f5eea4b6168540cd988a7e8044eb5581686
+Author: hcxxstl <hcxxstl@126.com>
+Date:   Mon Feb 18 16:00:33 2019 +0800
+
+    added readme.txt
